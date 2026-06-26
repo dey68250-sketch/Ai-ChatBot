@@ -89,8 +89,8 @@ This project is licensed under the MIT License.
 
 **Dipankar Dey**
 
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
+- GitHub: https://github.com/dey68250-sketch
+- Email: dey68250@gmail.com
 
 ---
 
